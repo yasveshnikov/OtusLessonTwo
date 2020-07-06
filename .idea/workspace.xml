@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1aae8925-d848-4ec1-aa9c-e82106905b5d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eK0Rq0hncEMYWVf156PKdPO3yc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RunManager" selected="JUnit.SampleTest">
+    <configuration name="SampleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tests-junit" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SampleTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleTest.Log" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tests-junit" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SampleTest" />
+      <option name="METHOD_NAME" value="Log" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SampleTest" />
+        <item itemvalue="JUnit.SampleTest.Log" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1aae8925-d848-4ec1-aa9c-e82106905b5d" name="Default Changelist" comment="" />
+      <created>1594054971207</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594054971207</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="328" y="85" key="#Project_Structure" timestamp="1594056451774">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state x="328" y="85" key="#Project_Structure/0.23.1680.961@0.23.1680.961" timestamp="1594056451774" />
+    <state x="304" y="165" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594057154966">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state x="304" y="165" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.961@0.23.1680.961" timestamp="1594057154966" />
+    <state width="1638" height="258" key="GridCell.Tab.0.bottom" timestamp="1594061759253">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state width="1638" height="258" key="GridCell.Tab.0.bottom/0.23.1680.961@0.23.1680.961" timestamp="1594061759253" />
+    <state width="1638" height="258" key="GridCell.Tab.0.center" timestamp="1594061759253">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state width="1638" height="258" key="GridCell.Tab.0.center/0.23.1680.961@0.23.1680.961" timestamp="1594061759253" />
+    <state width="1638" height="258" key="GridCell.Tab.0.left" timestamp="1594061759253">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state width="1638" height="258" key="GridCell.Tab.0.left/0.23.1680.961@0.23.1680.961" timestamp="1594061759253" />
+    <state width="1638" height="258" key="GridCell.Tab.0.right" timestamp="1594061759253">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state width="1638" height="258" key="GridCell.Tab.0.right/0.23.1680.961@0.23.1680.961" timestamp="1594061759253" />
+    <state x="341" y="142" key="SettingsEditor" timestamp="1594061994145">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state x="341" y="142" key="SettingsEditor/0.23.1680.961@0.23.1680.961" timestamp="1594061994145" />
+    <state x="208" y="166" key="new project wizard" timestamp="1594058161147">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state x="208" y="166" key="new project wizard/0.23.1680.961@0.23.1680.961" timestamp="1594058161147" />
+    <state x="505" y="234" width="670" height="676" key="search.everywhere.popup" timestamp="1594056592018">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state x="505" y="234" width="670" height="676" key="search.everywhere.popup/0.23.1680.961@0.23.1680.961" timestamp="1594056592018" />
+  </component>
+</project>

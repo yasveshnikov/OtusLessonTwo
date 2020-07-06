@@ -1,0 +1,26 @@
+2020-07-06 21:30:04,128 INFO SampleTest [main] Инфо
+2020-07-06 21:30:04,128 FATAL SampleTest [main] Фатал
+2020-07-06 21:30:04,129 ERROR SampleTest [main] Еррор
+2020-07-06 21:33:29,459 INFO SampleTest [main] Инфо
+2020-07-06 21:33:29,460 FATAL SampleTest [main] Фатал
+2020-07-06 21:33:29,460 ERROR SampleTest [main] Еррор
+2020-07-06 21:47:00,949 INFO SampleTest [main] Драйвер поднят
+2020-07-06 21:47:00,952 INFO SampleTest [main] Инфо
+2020-07-06 21:47:00,952 FATAL SampleTest [main] Фатал
+2020-07-06 21:47:00,952 ERROR SampleTest [main] Еррор
+2020-07-06 21:47:51,336 INFO SampleTest [main] Драйвер поднят
+2020-07-06 21:47:53,432 INFO SampleTest [main] Открыта страница отус
+2020-07-06 21:47:54,360 INFO SampleTest [main] Драйвер поднят
+2020-07-06 21:47:54,361 INFO SampleTest [main] Инфо
+2020-07-06 21:47:54,361 FATAL SampleTest [main] Фатал
+2020-07-06 21:47:54,361 ERROR SampleTest [main] Еррор
+2020-07-06 21:48:52,404 INFO SampleTest [main] Драйвер поднят
+2020-07-06 21:48:52,566 INFO SampleTest [main] Открыта страница отус
+2020-07-06 21:48:53,482 INFO SampleTest [main] Драйвер поднят
+2020-07-06 21:48:53,483 INFO SampleTest [main] Инфо
+2020-07-06 21:48:53,483 FATAL SampleTest [main] Фатал
+2020-07-06 21:48:53,483 ERROR SampleTest [main] Еррор
+2020-07-06 21:50:03,724 INFO SampleTest [main] Драйвер поднят
+2020-07-06 21:50:05,820 INFO SampleTest [main] Открыта страница отус
+2020-07-06 21:50:06,778 INFO SampleTest [main] Драйвер поднят
+2020-07-06 21:50:06,778 INFO SampleTest [main] This is info
