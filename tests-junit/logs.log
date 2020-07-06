@@ -39,3 +39,30 @@
 2020-07-06 22:20:34,790 INFO SampleTest [main] Открыта страница отус
 2020-07-06 22:20:35,669 INFO SampleTest [main] Драйвер поднят
 2020-07-06 22:20:35,669 INFO SampleTest [main] This is info
+2020-07-06 23:45:50,283 INFO SampleTest [main] Драйвер поднят
+2020-07-06 23:45:52,153 INFO SampleTest [main] Открыта страница отус
+2020-07-06 23:45:53,014 INFO SampleTest [main] Драйвер поднят
+2020-07-06 23:45:53,028 INFO SampleTest [main] This is info
+2020-07-07 00:10:48,884 INFO titleCheck [main] Драйвер поднят
+2020-07-07 00:10:50,760 INFO titleCheck [main] Открыта страница отус
+2020-07-07 00:10:50,765 INFO titleCheck [main] Открыта страница отус
+2020-07-07 00:13:32,618 INFO titleCheck [main] Драйвер поднят
+2020-07-07 00:13:34,368 INFO titleCheck [main] Открыта страница отус
+2020-07-07 00:13:34,378 INFO titleCheck [main] Онлайн‑курсы для профессионалов, дистанционное обучение современным профессиям
+2020-07-07 00:13:59,322 INFO titleCheck [main] Драйвер поднят
+2020-07-07 00:14:00,686 INFO titleCheck [main] Открыта страница отус
+2020-07-07 00:15:36,177 INFO titleCheck [main] Драйвер поднят
+2020-07-07 00:15:37,878 INFO titleCheck [main] Открыта страница отус
+2020-07-07 00:15:37,884 INFO titleCheck [main] Проверка title
+2020-07-07 00:17:16,914 INFO titleCheck [main] Драйвер поднят
+2020-07-07 00:17:18,719 INFO titleCheck [main] Открыта страница отус
+2020-07-07 00:17:18,724 INFO titleCheck [main] Проверка title
+2020-07-07 00:19:40,690 INFO titleCheck [main] Драйвер поднят
+2020-07-07 00:19:41,788 INFO titleCheck [main] Открыта страница отус
+2020-07-07 00:19:41,842 INFO titleCheck [main] Проверка title
+2020-07-07 00:20:17,199 INFO titleCheck [main] Драйвер поднят
+2020-07-07 00:20:18,923 INFO titleCheck [main] Открыта страница отус
+2020-07-07 00:20:18,926 INFO titleCheck [main] Проверка title
+2020-07-07 00:22:29,010 INFO titleCheck [main] Драйвер поднят
+2020-07-07 00:22:30,549 INFO titleCheck [main] Открыта страница отус
+2020-07-07 00:22:30,553 INFO titleCheck [main] Проверка title

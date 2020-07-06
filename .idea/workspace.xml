@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1aae8925-d848-4ec1-aa9c-e82106905b5d" name="Default Changelist" comment="log4j-version-fix">
-      <change afterPath="$PROJECT_DIR$/model/src/main/java/config/ServerConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/src/main/resources/config.properties" afterDir="false" />
+    <list default="true" id="1aae8925-d848-4ec1-aa9c-e82106905b5d" name="Default Changelist" comment="add-config-file">
+      <change afterPath="$PROJECT_DIR$/tests-junit/src/test/java/titleCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/model/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/src/main/resources/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/model/src/main/resources/config.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests-junit/logs.log" beforeDir="false" afterPath="$PROJECT_DIR$/tests-junit/logs.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests-junit/src/test/java/SampleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/tests-junit/src/test/java/SampleTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests-junit/target/test-classes/SampleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/tests-junit/target/test-classes/SampleTest.class" afterDir="false" />
@@ -18,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -41,7 +41,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="JUnit.SampleTest">
+  <component name="RunManager" selected="JUnit.titleCheck">
     <configuration name="SampleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="tests-junit" />
       <option name="PACKAGE_NAME" value="" />
@@ -61,8 +61,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="titleCheck" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tests-junit" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="titleCheck" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.titleCheck" />
         <item itemvalue="JUnit.SampleTest" />
         <item itemvalue="JUnit.SampleTest.Log" />
       </list>
@@ -86,12 +96,20 @@
       <option name="project" value="LOCAL" />
       <updated>1594062313058</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add-config-file">
+      <created>1594063312855</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1594063312855</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="log4j-version-fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="log4j-version-fix" />
+    <MESSAGE value="add-config-file" />
+    <option name="LAST_COMMIT_MESSAGE" value="add-config-file" />
   </component>
   <component name="WindowStateProjectService">
     <state x="328" y="85" key="#Project_Structure" timestamp="1594056451774">
@@ -110,30 +128,30 @@
       <screen x="0" y="23" width="1680" height="961" />
     </state>
     <state x="590" y="208" key="Github.UntrackedFilesDialog/0.23.1680.961@0.23.1680.961" timestamp="1594062055633" />
-    <state width="1638" height="258" key="GridCell.Tab.0.bottom" timestamp="1594063225427">
+    <state width="1638" height="258" key="GridCell.Tab.0.bottom" timestamp="1594070410258">
       <screen x="0" y="23" width="1680" height="961" />
     </state>
-    <state width="1638" height="258" key="GridCell.Tab.0.bottom/0.23.1680.961@0.23.1680.961" timestamp="1594063225427" />
-    <state width="1638" height="258" key="GridCell.Tab.0.center" timestamp="1594063225426">
+    <state width="1638" height="258" key="GridCell.Tab.0.bottom/0.23.1680.961@0.23.1680.961" timestamp="1594070410258" />
+    <state width="1638" height="258" key="GridCell.Tab.0.center" timestamp="1594070410257">
       <screen x="0" y="23" width="1680" height="961" />
     </state>
-    <state width="1638" height="258" key="GridCell.Tab.0.center/0.23.1680.961@0.23.1680.961" timestamp="1594063225426" />
-    <state width="1638" height="258" key="GridCell.Tab.0.left" timestamp="1594063225425">
+    <state width="1638" height="258" key="GridCell.Tab.0.center/0.23.1680.961@0.23.1680.961" timestamp="1594070410257" />
+    <state width="1638" height="258" key="GridCell.Tab.0.left" timestamp="1594070410257">
       <screen x="0" y="23" width="1680" height="961" />
     </state>
-    <state width="1638" height="258" key="GridCell.Tab.0.left/0.23.1680.961@0.23.1680.961" timestamp="1594063225425" />
-    <state width="1638" height="258" key="GridCell.Tab.0.right" timestamp="1594063225426">
+    <state width="1638" height="258" key="GridCell.Tab.0.left/0.23.1680.961@0.23.1680.961" timestamp="1594070410257" />
+    <state width="1638" height="258" key="GridCell.Tab.0.right" timestamp="1594070410258">
       <screen x="0" y="23" width="1680" height="961" />
     </state>
-    <state width="1638" height="258" key="GridCell.Tab.0.right/0.23.1680.961@0.23.1680.961" timestamp="1594063225426" />
+    <state width="1638" height="258" key="GridCell.Tab.0.right/0.23.1680.961@0.23.1680.961" timestamp="1594070410258" />
     <state x="341" y="142" key="SettingsEditor" timestamp="1594061994145">
       <screen x="0" y="23" width="1680" height="961" />
     </state>
     <state x="341" y="142" key="SettingsEditor/0.23.1680.961@0.23.1680.961" timestamp="1594061994145" />
-    <state x="440" y="243" key="Vcs.Push.Dialog.v2" timestamp="1594062545727">
+    <state x="440" y="243" key="Vcs.Push.Dialog.v2" timestamp="1594063322478">
       <screen x="0" y="23" width="1680" height="961" />
     </state>
-    <state x="440" y="243" key="Vcs.Push.Dialog.v2/0.23.1680.961@0.23.1680.961" timestamp="1594062545727" />
+    <state x="440" y="243" key="Vcs.Push.Dialog.v2/0.23.1680.961@0.23.1680.961" timestamp="1594063322478" />
     <state x="628" y="424" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1594062500516">
       <screen x="0" y="23" width="1680" height="961" />
     </state>
